@@ -33,3 +33,7 @@ started new branch
 
 
 working on computer version
+
+
+starting object
+
